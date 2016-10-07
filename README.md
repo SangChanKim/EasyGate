@@ -36,7 +36,7 @@ In daRealThing.py
 $ export FLASK_APP=app.py
 $ flask run --host=0.0.0.0
 ```
-The webapp should served on http://localhost:5000
+The webapp should be served on http://localhost:5000
 
 ### Run the CV operations
 ```
